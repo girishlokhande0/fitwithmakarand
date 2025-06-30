@@ -12510,7 +12510,7 @@ label {
   margin-bottom: 0;
 }
 .contact-info .info-content span {
-  font-size: 22px;
+  /* font-size: 22px; */
   font-weight: 500;
   line-height: 26px;
   color: #e63a34;
